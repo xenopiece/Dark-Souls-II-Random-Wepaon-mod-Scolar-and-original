@@ -20,3 +20,5 @@ DarkSoulsII (orginal) download link: https://mega.nz/#!zE82mRID!2n4P04y2pt1NyXg1
 DarkSoulsII Sotfs downlaod link: https://mega.nz/#!idFHjBhJ!5gmGUpYbnbMEEHp2huXx8a5ds7I4NRlmfbvMOgEfhTI <br />
 
 you can't go hollow while using this mod, because im messing around with the hollow state to make this work. <br />
+
+Don't use this mod online, you will probably get banned.<br />
