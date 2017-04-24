@@ -1,0 +1,8 @@
+﻿  DarkSouls2RandomWeaponMod.cpp
+c:\users\genos\documents\visual studio 2017\projects\darksouls2randomweaponmod\darksouls2randomweaponmod\utilities.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\genos\documents\visual studio 2017\projects\darksouls2randomweaponmod\darksouls2randomweaponmod\utilities.h(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\genos\documents\visual studio 2017\projects\darksouls2randomweaponmod\darksouls2randomweaponmod\utilities.h(58): warning C4101: 'max': unreferenced local variable
+c:\users\genos\documents\visual studio 2017\projects\darksouls2randomweaponmod\darksouls2randomweaponmod\utilities.h(57): warning C4101: 'min': unreferenced local variable
+c:\users\genos\documents\visual studio 2017\projects\darksouls2randomweaponmod\darksouls2randomweaponmod\darksouls2randomweaponmod.cpp(180): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  DarkSouls2RandomWeaponMod.vcxproj -> C:\Users\Genos\Documents\Visual Studio 2017\Projects\DarkSouls2RandomWeaponMod\Debug\DarkSouls2RandomWeaponMod.exe
+  DarkSouls2RandomWeaponMod.vcxproj -> C:\Users\Genos\Documents\Visual Studio 2017\Projects\DarkSouls2RandomWeaponMod\Debug\DarkSouls2RandomWeaponMod.pdb (Partial PDB)
