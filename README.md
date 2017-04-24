@@ -5,6 +5,8 @@ The mod does not include Sheilds, Bows, Talismans, staves, chimes or Pyromancy f
 
 You can customize the timer (in seconds) for when it switches weapon.<br />
 
+Make sure you have control of your character before using this mod it might cause a bug so that mod doesn't work.<br />
+
 Weapons have random upgrade level.<br />
 
 The weapon icon will change when the weapon changes, same for the weight. !? <br />
