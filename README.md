@@ -15,9 +15,9 @@ Dark souls II the orginal has a weird bug where some weapons one hit kill not re
 
 When you apply infusion it's every infusion in the game (might be fixed if people really hate it). <br />
 
-DarkSoulsII (orginal) download link: https://mega.nz/#!zE82mRID!2n4P04y2pt1NyXg10qUhbX69QX4U9q_5rDq39km90Mk <br />
+DarkSoulsII (orginal) download link: https://mega.nz/#!zZszTKjZ!6c7ely-CVdRt6I6P42Vy7ml0EQUrDaMSGNnomW6QzgQ <br />
 
-DarkSoulsII Sotfs downlaod link: https://mega.nz/#!idFHjBhJ!5gmGUpYbnbMEEHp2huXx8a5ds7I4NRlmfbvMOgEfhTI <br />
+DarkSoulsII Sotfs downlaod link: https://mega.nz/#!CEdgzAxZ!yi9xSVQtCgunOK1OZ2G4I92_UNwH9ry9J47gi3gsnGQ <br />
 
 you can't go hollow while using this mod, because im messing around with the hollow state to make this work. <br />
 
